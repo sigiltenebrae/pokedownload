@@ -1,0 +1,7 @@
+minior-red
+minior-orange
+minior-yellow
+minior-green
+minior-blue
+minior-indigo
+minior-violet

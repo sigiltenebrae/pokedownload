@@ -1,0 +1,4 @@
+genesect-water
+genesect-electric
+genesect-fire
+genesect-ice

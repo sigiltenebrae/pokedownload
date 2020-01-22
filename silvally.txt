@@ -1,0 +1,17 @@
+silvally-fighting
+silvally-flying
+silvally-poison
+silvally-ground
+silvally-rock
+silvally-bug
+silvally-ghost
+silvally-steel
+silvally-fire
+silvally-water
+silvally-grass
+silvally-electric
+silvally-psychic
+silvally-ice
+silvally-dragon
+silvally-dark
+silvally-fairy

@@ -1,0 +1,6 @@
+kyogre-primal
+groudon-primal
+charizard-megax
+charizard-megay
+mewtwo-megax
+mewtwo-megay

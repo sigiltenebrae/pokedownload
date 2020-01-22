@@ -1,0 +1,4 @@
+floette-blue
+floette-orange
+floette-white
+floette-yellow

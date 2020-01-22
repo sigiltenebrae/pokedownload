@@ -1,0 +1,3 @@
+deoxys-attack
+deoxys-defense
+deoxys-speed

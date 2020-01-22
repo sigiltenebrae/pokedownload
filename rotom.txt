@@ -1,0 +1,5 @@
+rotom-heat
+rotom-wash
+rotom-frost
+rotom-fan
+rotom-mow
